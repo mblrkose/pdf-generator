@@ -32,7 +32,7 @@ Open Command Prompt or Terminal and type:
 
 ```
 git clone https://github.com/mblrkose/pdf-generator.git
-cd pdf-bypass
+cd pdf-generator
 npm install
 ```
 
