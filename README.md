@@ -31,7 +31,7 @@ This application generates unique academic PDFs using a free AI service. Each do
 Open Command Prompt or Terminal and type:
 
 ```
-git clone https://github.com/mblrkose/pdf-bypass.git
+git clone https://github.com/mblrkose/pdf-generator.git
 cd pdf-bypass
 npm install
 ```
